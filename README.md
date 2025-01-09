@@ -5,41 +5,77 @@ Data Dictionary:
 =========================================================================
 
 RATINGS FILE DESCRIPTION
+
   • All ratings are contained in the file "ratings.dat" and are in the following format:UserID::MovieID::Rating::Timestamp
+  
      • UserIDs range between 1 and 6040
-     • MovieIDs range between 1 and 3952 
+     
+     • MovieIDs range between 1 and 3952
+     
      • Ratings are made on a 5-star scale (whole-star ratings only)
+     
      • Timestamp is represented in seconds
+     
      • Each user has at least 20 ratings
+     
 USERS FILE DESCRIPTION
+
   •  User information is in the file "users.dat" and is in the following format: UserID::Gender::Age::Occupation::Zip-code
+  
   •  All demographic information is provided voluntarily by the users and is not checked for  accuracy.
+  
   •  Only users who have provided some demographic information are included in this data set.
+  
   • Gender is denoted by a "M" for male and "F" for female
+  
   • Age is chosen from the following ranges:
+  
       o 1: "Under 18"
+      
       o 18: "18-24"
+      
       o 25: "25-34"
+      
       o 35: "35-44"
+      
       o 45: "45-49"
+      
       o 50: "50-55"
+      
       o 56: "56+"
+      
       • Occupation is chosen from the following choices:
+      
       o 0: "other" or not specified
+      
       o 1: "academic/educator"
+      
       o 2: "artist"
+      
       o 3: "clerical/admin"
+      
       o 4: "college/grad student"
+      
       o 5: "customer service"
+      
       o 6: "doctor/health care"
+      
       o 7: "executive/managerial"
+      
       o 8: "farmer"
+      
       o 9: "homemaker"
+      
           o 10: "K-12 student"
+          
           o 11: "lawyer"
+          
           o 12: "programmer"
+          
           o 13: "retired"
+          
           o 14: "sales/marketing"
+          
           o 15: "scientist"
           o 16: "self-employed"
           o 17: "technician/engineer"
