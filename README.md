@@ -77,11 +77,17 @@ USERS FILE DESCRIPTION
           o 14: "sales/marketing"
           
           o 15: "scientist"
+          
           o 16: "self-employed"
+          
           o 17: "technician/engineer"
+          
           o 18: "tradesman/craftsman"
+          
           o 19: "unemployed"
+          
           o 20: "writer"
+          
 MOVIES FILE DESCRIPTION
 
   • Movie information is in the file "movies.dat" and is in the following format: MovieID:: Title::Genres
