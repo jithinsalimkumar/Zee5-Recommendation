@@ -9,23 +9,16 @@ RATINGS FILE DESCRIPTION
   • All ratings are contained in the file "ratings.dat" and are in the following format:UserID::MovieID::Rating::Timestamp
   
      • UserIDs range between 1 and 6040
-     
      • MovieIDs range between 1 and 3952
-     
      • Ratings are made on a 5-star scale (whole-star ratings only)
-     
      • Timestamp is represented in seconds
-     
      • Each user has at least 20 ratings
      
 USERS FILE DESCRIPTION
 
   •  User information is in the file "users.dat" and is in the following format: UserID::Gender::Age::Occupation::Zip-code
-  
   •  All demographic information is provided voluntarily by the users and is not checked for  accuracy.
-  
   •  Only users who have provided some demographic information are included in this data set.
-  
   • Gender is denoted by a "M" for male and "F" for female
   
   • Age is chosen from the following ranges:
@@ -69,6 +62,7 @@ MOVIES FILE DESCRIPTION
   • Titles are identical to titles provided by the IMDB (including year of release)
   
   • Genres are pipe-separated and are selected from the following genres:
+  
       o Action
       o Adventure
       o Animation
