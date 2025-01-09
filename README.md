@@ -61,25 +61,42 @@ MOVIES FILE DESCRIPTION
   
   • Titles are identical to titles provided by the IMDB (including year of release)
   
- 
   • Genres are pipe-separated and are selected from the following genres:
+      
       o Action
+      
       o Adventure
+      
       o Animation
+      
       o Children's
+      
       o Comedy
+      
       o Crime
+      
       o Documentary
+      
       o Drama
+      
       o Fantasy
+      
       o Film-Noir
+      
       o Horror
+      
       o Musical
+      
       o Mystery
+      
       o Romance
+      
       o Sci-Fi
+      
       o Thriller
+      
       o War
+      
       o Western
 
 Questionnaire:
