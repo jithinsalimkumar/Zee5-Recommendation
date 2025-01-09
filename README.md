@@ -7,7 +7,7 @@ Data Dictionary:
 RATINGS FILE DESCRIPTION
   • All ratings are contained in the file "ratings.dat" and are in the following format:UserID::MovieID::Rating::Timestamp
      • UserIDs range between 1 and 6040
-     • MovieIDs range between 1 and 3952
+     • MovieIDs range between 1 and 3952 
      • Ratings are made on a 5-star scale (whole-star ratings only)
      • Timestamp is represented in seconds
      • Each user has at least 20 ratings
