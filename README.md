@@ -95,27 +95,10 @@ Name the top 3 movies similar to ‘Liar Liar’ on the item-based approach.
 Mention the RMSE and MAPE that you got while evaluating the Matrix Factorization model.
 
 Concepts Tested:
+
   • Recommender Engine
   • Collaborative Filtering (Item-based & User-based Approach)
   • Pearson Correlation
   • Nearest Neighbors using Cosine Similarity
   • Matrix Factorization
-  
-Project Accomplishments and Process Overview
- • Reading the data files, formatting them into a proper workable format and merging the data files into one single dataframe
-   Eg: pd.read_fwf('../input/zeemovie/movies.dat', encoding='ISO-8859-1'
- • Performing exploratory data analysis like checking the structure & characteristics of the dataset and cleaning the data
- • Performing feature engineering steps type conversions and deriving new features like ‘Release Year’
- • Visualizing the data with respect to different categories to get a better understanding of the underlying distribution
- • Grouping the data in terms of Average Rating and No. of Ratings given
- • Creating a pivot table of movie titles & user id and imputing the NaN values with a suitable value
- 
- • Follow the Item-based approach and
-     o Pearson Correlation
-     o Cosine Similarity
- • Matrix Factorization
-     o Evaluate the model’s performance using RMSE and MAPE
- • Embeddings for item-item and user-user similarity
-     o Re-design the item-item similarity function to use MF embeddings (d=4) 
-     instead of raw features
-     o Similarly, do this for user-user similarity
+
