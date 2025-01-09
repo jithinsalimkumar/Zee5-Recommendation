@@ -47,8 +47,11 @@ USERS FILE DESCRIPTION
           o 19: "unemployed"
           o 20: "writer"
 MOVIES FILE DESCRIPTION
+
   • Movie information is in the file "movies.dat" and is in the following format: MovieID:: Title::Genres
+  
   • Titles are identical to titles provided by the IMDB (including year of release)
+  
   • Genres are pipe-separated and are selected from the following genres:
       o Action
       o Adventure
@@ -68,6 +71,7 @@ MOVIES FILE DESCRIPTION
       o Thriller
       o War
       o Western
+
 Questionnaire:
 =========================================================================
 
