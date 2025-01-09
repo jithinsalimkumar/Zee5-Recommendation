@@ -93,12 +93,14 @@ Most of the movies present in our dataset were released in which decade?
 The movie with maximum no. of ratings is ___.
 Name the top 3 movies similar to ‘Liar Liar’ on the item-based approach.
 Mention the RMSE and MAPE that you got while evaluating the Matrix Factorization model.
+
 Concepts Tested:
   • Recommender Engine
   • Collaborative Filtering (Item-based & User-based Approach)
   • Pearson Correlation
   • Nearest Neighbors using Cosine Similarity
   • Matrix Factorization
+  
 Project Accomplishments and Process Overview
  • Reading the data files, formatting them into a proper workable format and merging the data files into one single dataframe
    Eg: pd.read_fwf('../input/zeemovie/movies.dat', encoding='ISO-8859-1'
@@ -107,6 +109,7 @@ Project Accomplishments and Process Overview
  • Visualizing the data with respect to different categories to get a better understanding of the underlying distribution
  • Grouping the data in terms of Average Rating and No. of Ratings given
  • Creating a pivot table of movie titles & user id and imputing the NaN values with a suitable value
+ 
  • Follow the Item-based approach and
      o Pearson Correlation
      o Cosine Similarity
