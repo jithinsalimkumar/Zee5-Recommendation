@@ -66,27 +66,24 @@ USERS FILE DESCRIPTION
       
       o 9: "homemaker"
       
-          o 10: "K-12 student"
+      o 10: "K-12 student"
           
-          o 11: "lawyer"
+      o 11: "lawyer"
           
-          o 12: "programmer"
+      o 12: "programmer"
           
-          o 13: "retired"
+      o 13: "retired"
           
-          o 14: "sales/marketing"
+      o 14: "sales/marketing"
           
-          o 15: "scientist"
+      o 15: "scientist"
           
-          o 16: "self-employed"
+      o 16: "self-employed"
           
-          o 17: "technician/engineer"
-          
-          o 18: "tradesman/craftsman"
-          
-          o 19: "unemployed"
-          
-          o 20: "writer"
+      o 17: "technician/engineer"         
+      o 18: "tradesman/craftsman"      
+      o 19: "unemployed" 
+      o 20: "writer"
           
 MOVIES FILE DESCRIPTION
 
