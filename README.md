@@ -97,8 +97,13 @@ Mention the RMSE and MAPE that you got while evaluating the Matrix Factorization
 Concepts Tested:
 
 • Recommender Engine
+
+
 • Collaborative Filtering (Item-based & User-based Approach)  
+
 • Pearson Correlation 
+
 • Nearest Neighbors using Cosine Similarity  
+
 • Matrix Factorization
 
